@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-import 'widgets/button.dart';
-import 'widgets/currency_card.dart';
+import './widgets/button.dart';
+import './widgets/currency_card.dart';
 
 class StatelessApp extends StatelessWidget {
   @override

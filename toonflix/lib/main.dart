@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:toonflix/build_context_app.dart';
+import 'package:toonflix/basic/lifecycle_app.dart';
 
 void main() {
-  runApp(BuildContextApp());
+  runApp(LifecycleApp());
 }
