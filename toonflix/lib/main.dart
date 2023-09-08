@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:toonflix/basic/lifecycle_app.dart';
+import 'package:toonflix/pomodoro/pomodoro_app.dart';
 
 void main() {
-  runApp(LifecycleApp());
+  runApp(PomodoroApp());
 }
